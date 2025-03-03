@@ -1,0 +1,98 @@
+3/1/2025 5:14:01 PM: INFO: Imported Invoice: INV0005
+3/1/2025 5:14:01 PM: INFO: Total Quantity for Invoice INV0005: 5
+3/1/2025 5:14:01 PM: INFO: Imported Invoice: INV0006
+3/1/2025 5:14:01 PM: INFO: Total Quantity for Invoice INV0006: 3
+3/1/2025 5:14:01 PM: INFO: Imported Invoice: INV0007
+3/1/2025 5:14:01 PM: INFO: Total Quantity for Invoice INV0007: 2
+3/1/2025 5:14:01 PM: INFO: Imported Invoice: INV0008
+3/1/2025 5:14:01 PM: INFO: Total Quantity for Invoice INV0008: 3
+3/1/2025 5:14:01 PM: INFO: Imported Invoice: INV0021
+3/1/2025 5:14:01 PM: INFO: Total Quantity for Invoice INV0021: 3
+3/1/2025 5:14:01 PM: INFO: Imported Invoice: INV0009
+3/1/2025 5:14:01 PM: INFO: Total Quantity for Invoice INV0009: 1
+3/1/2025 5:14:01 PM: INFO: Imported Invoice: INV0010
+3/1/2025 5:14:01 PM: INFO: Total Quantity for Invoice INV0010: 2
+3/1/2025 5:14:01 PM: INFO: Imported Invoice: INV0011
+3/1/2025 5:14:01 PM: INFO: Total Quantity for Invoice INV0011: 4
+3/1/2025 5:14:01 PM: INFO: Imported Invoice: INV0013
+3/1/2025 5:14:01 PM: INFO: Total Quantity for Invoice INV0013: 3
+3/1/2025 5:14:01 PM: INFO: Imported Invoice: INV0014
+3/1/2025 5:14:01 PM: INFO: Total Quantity for Invoice INV0014: 4
+3/1/2025 5:14:01 PM: INFO: Imported Invoice: INV0015
+3/1/2025 5:14:01 PM: INFO: Total Quantity for Invoice INV0015: 6
+3/1/2025 5:14:01 PM: INFO: Imported Invoice: INV0016
+3/1/2025 5:14:01 PM: INFO: Total Quantity for Invoice INV0016: 5
+3/1/2025 5:14:01 PM: INFO: Imported Invoice: INV0018
+3/1/2025 5:14:01 PM: INFO: Total Quantity for Invoice INV0018: 2
+3/1/2025 5:14:01 PM: INFO: Imported Invoice: INV0019
+3/1/2025 5:14:01 PM: INFO: Total Quantity for Invoice INV0019: 1
+3/1/2025 5:14:01 PM: INFO: Imported Invoice: INV0020
+3/1/2025 5:14:01 PM: INFO: Total Quantity for Invoice INV0020: 2
+3/1/2025 5:14:01 PM: INFO: Imported Invoice: INV0026
+3/1/2025 5:14:01 PM: INFO: Total Quantity for Invoice INV0026: 2
+3/1/2025 5:14:01 PM: INFO: Imported Invoice: INV0023
+3/1/2025 5:14:01 PM: INFO: Total Quantity for Invoice INV0023: 3
+3/1/2025 5:14:01 PM: INFO: Imported Invoice: INV0024
+3/1/2025 5:14:01 PM: INFO: Total Quantity for Invoice INV0024: 5
+3/1/2025 5:14:01 PM: INFO: Imported Invoice: INV0025
+3/1/2025 5:14:01 PM: INFO: Total Quantity for Invoice INV0025: 1
+3/1/2025 5:14:01 PM: INFO: Imported Invoice: INV0029
+3/1/2025 5:14:01 PM: INFO: Total Quantity for Invoice INV0029: 2
+3/1/2025 5:14:01 PM: INFO: Imported Invoice: INV0030
+3/1/2025 5:14:01 PM: INFO: Total Quantity for Invoice INV0030: 3
+3/1/2025 5:14:01 PM: INFO: Imported Invoice: INV0031
+3/1/2025 5:14:01 PM: INFO: Total Quantity for Invoice INV0031: 1
+3/1/2025 5:14:01 PM: INFO: Imported Invoice: INV0033
+3/1/2025 5:14:01 PM: INFO: Total Quantity for Invoice INV0033: 7
+3/1/2025 5:14:02 PM: INFO: Total from InvoiceLines: 21860.71
+3/1/2025 5:14:02 PM: INFO: Total from InvoiceHeaders: 13521.02
+3/1/2025 5:14:02 PM: Invoice totals do not match.
+3/1/2025 5:16:11 PM: INFO: Imported Invoice: INV0005
+3/1/2025 5:16:11 PM: INFO: Total Quantity for Invoice INV0005: 5
+3/1/2025 5:16:11 PM: INFO: Imported Invoice: INV0006
+3/1/2025 5:16:11 PM: INFO: Total Quantity for Invoice INV0006: 3
+3/1/2025 5:16:11 PM: INFO: Imported Invoice: INV0007
+3/1/2025 5:16:11 PM: INFO: Total Quantity for Invoice INV0007: 2
+3/1/2025 5:16:11 PM: INFO: Imported Invoice: INV0008
+3/1/2025 5:16:11 PM: INFO: Total Quantity for Invoice INV0008: 3
+3/1/2025 5:16:11 PM: INFO: Imported Invoice: INV0021
+3/1/2025 5:16:11 PM: INFO: Total Quantity for Invoice INV0021: 3
+3/1/2025 5:16:11 PM: INFO: Imported Invoice: INV0009
+3/1/2025 5:16:11 PM: INFO: Total Quantity for Invoice INV0009: 1
+3/1/2025 5:16:11 PM: INFO: Imported Invoice: INV0010
+3/1/2025 5:16:11 PM: INFO: Total Quantity for Invoice INV0010: 2
+3/1/2025 5:16:11 PM: INFO: Imported Invoice: INV0011
+3/1/2025 5:16:11 PM: INFO: Total Quantity for Invoice INV0011: 4
+3/1/2025 5:16:11 PM: INFO: Imported Invoice: INV0013
+3/1/2025 5:16:11 PM: INFO: Total Quantity for Invoice INV0013: 3
+3/1/2025 5:16:11 PM: INFO: Imported Invoice: INV0014
+3/1/2025 5:16:11 PM: INFO: Total Quantity for Invoice INV0014: 4
+3/1/2025 5:16:11 PM: INFO: Imported Invoice: INV0015
+3/1/2025 5:16:11 PM: INFO: Total Quantity for Invoice INV0015: 6
+3/1/2025 5:16:11 PM: INFO: Imported Invoice: INV0016
+3/1/2025 5:16:11 PM: INFO: Total Quantity for Invoice INV0016: 5
+3/1/2025 5:16:11 PM: INFO: Imported Invoice: INV0018
+3/1/2025 5:16:11 PM: INFO: Total Quantity for Invoice INV0018: 2
+3/1/2025 5:16:11 PM: INFO: Imported Invoice: INV0019
+3/1/2025 5:16:11 PM: INFO: Total Quantity for Invoice INV0019: 1
+3/1/2025 5:16:11 PM: INFO: Imported Invoice: INV0020
+3/1/2025 5:16:11 PM: INFO: Total Quantity for Invoice INV0020: 2
+3/1/2025 5:16:11 PM: INFO: Imported Invoice: INV0026
+3/1/2025 5:16:11 PM: INFO: Total Quantity for Invoice INV0026: 2
+3/1/2025 5:16:11 PM: INFO: Imported Invoice: INV0023
+3/1/2025 5:16:11 PM: INFO: Total Quantity for Invoice INV0023: 3
+3/1/2025 5:16:11 PM: INFO: Imported Invoice: INV0024
+3/1/2025 5:16:11 PM: INFO: Total Quantity for Invoice INV0024: 5
+3/1/2025 5:16:11 PM: INFO: Imported Invoice: INV0025
+3/1/2025 5:16:11 PM: INFO: Total Quantity for Invoice INV0025: 1
+3/1/2025 5:16:11 PM: INFO: Imported Invoice: INV0029
+3/1/2025 5:16:11 PM: INFO: Total Quantity for Invoice INV0029: 2
+3/1/2025 5:16:11 PM: INFO: Imported Invoice: INV0030
+3/1/2025 5:16:11 PM: INFO: Total Quantity for Invoice INV0030: 3
+3/1/2025 5:16:11 PM: INFO: Imported Invoice: INV0031
+3/1/2025 5:16:11 PM: INFO: Total Quantity for Invoice INV0031: 1
+3/1/2025 5:16:11 PM: INFO: Imported Invoice: INV0033
+3/1/2025 5:16:11 PM: INFO: Total Quantity for Invoice INV0033: 7
+3/1/2025 5:16:14 PM: INFO: Total from InvoiceLines: 21860.71
+3/1/2025 5:16:16 PM: INFO: Total from InvoiceHeaders: 13521.02
+3/1/2025 5:16:20 PM: Invoice totals do not match.
