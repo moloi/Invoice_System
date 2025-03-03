@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = InvoiceSystem
-build_property.ProjectDir = C:\Users\ITQ_DEVELOPER\Desktop\InvoiceSystem\InvoiceSystem\
+build_property.ProjectDir = C:\Users\ITQ_DEVELOPER\Desktop\Invoice_System\InvoiceSystem\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

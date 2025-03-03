@@ -3109,11 +3109,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ITQ_DEVELOPER\\Desktop\\InvoiceSystem\\InvoiceSystem\\InvoiceSystem.csproj",
+      "projectUniqueName": "C:\\Users\\ITQ_DEVELOPER\\Desktop\\Invoice_System\\InvoiceSystem\\InvoiceSystem.csproj",
       "projectName": "InvoiceSystem",
-      "projectPath": "C:\\Users\\ITQ_DEVELOPER\\Desktop\\InvoiceSystem\\InvoiceSystem\\InvoiceSystem.csproj",
+      "projectPath": "C:\\Users\\ITQ_DEVELOPER\\Desktop\\Invoice_System\\InvoiceSystem\\InvoiceSystem.csproj",
       "packagesPath": "C:\\Users\\ITQ_DEVELOPER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ITQ_DEVELOPER\\Desktop\\InvoiceSystem\\InvoiceSystem\\obj\\",
+      "outputPath": "C:\\Users\\ITQ_DEVELOPER\\Desktop\\Invoice_System\\InvoiceSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -8293,11 +8293,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ITQ_DEVELOPER\\Desktop\\InvoiceSystem\\InvoiceTest\\InvoiceTest.csproj",
+      "projectUniqueName": "C:\\Users\\ITQ_DEVELOPER\\Desktop\\Invoice_System\\InvoiceTest\\InvoiceTest.csproj",
       "projectName": "InvoiceTest",
-      "projectPath": "C:\\Users\\ITQ_DEVELOPER\\Desktop\\InvoiceSystem\\InvoiceTest\\InvoiceTest.csproj",
+      "projectPath": "C:\\Users\\ITQ_DEVELOPER\\Desktop\\Invoice_System\\InvoiceTest\\InvoiceTest.csproj",
       "packagesPath": "C:\\Users\\ITQ_DEVELOPER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ITQ_DEVELOPER\\Desktop\\InvoiceSystem\\InvoiceTest\\obj\\",
+      "outputPath": "C:\\Users\\ITQ_DEVELOPER\\Desktop\\Invoice_System\\InvoiceTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -8321,8 +8321,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\ITQ_DEVELOPER\\Desktop\\InvoiceSystem\\InvoiceSystem\\InvoiceSystem.csproj": {
-              "projectPath": "C:\\Users\\ITQ_DEVELOPER\\Desktop\\InvoiceSystem\\InvoiceSystem\\InvoiceSystem.csproj"
+            "C:\\Users\\ITQ_DEVELOPER\\Desktop\\Invoice_System\\InvoiceSystem\\InvoiceSystem.csproj": {
+              "projectPath": "C:\\Users\\ITQ_DEVELOPER\\Desktop\\Invoice_System\\InvoiceSystem\\InvoiceSystem.csproj"
             }
           }
         }
