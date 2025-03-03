@@ -26,19 +26,28 @@ class Program
         var optionsBuilder = new DbContextOptionsBuilder<InvoiceContext>();
         optionsBuilder.UseSqlServer(connectionString);
 
+
+
         using (var context = new InvoiceContext(optionsBuilder.Options))
         {
             context.Database.EnsureCreated();
         }
 
+        Console.WriteLine("Paste the CSV path file here, Example('C:\\Users\\ITQ_DEVELOPER\\Desktop\\data.csv')");
+        string csvFilePath = Console.ReadLine();
 
-        string csvFilePath = @"C:\Users\ITQ_DEVELOPER\Desktop\data.csv";
+        if (!File.Exists(csvFilePath))
+        {
+            Console.WriteLine($"Error: The file '{csvFilePath}' was not found.");
+            return;
+        }
 
         try
         {
             ICsvReader csvReader = new CsvReader();
 
             InvoiceService.ImportInvoices(csvFilePath, optionsBuilder.Options, csvReader);
+            Console.WriteLine("CSV file imported successfully.");
         }
         catch (FileNotFoundException ex)
         {
